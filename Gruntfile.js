@@ -370,6 +370,20 @@ module.exports = function (grunt) {
         'coffee:dist',
         'copy:dist'
       ]
+    },
+    buildcontrol: {
+      options: {
+        dir: 'dist',
+        commit: true,
+        push: true,
+        message: 'Built %sourceName% from commit %sourceCommit% on branch %sourceBranch%'
+      },
+      pages: {
+        options: {
+          remote: 'git@github.com:sassydc/sassydc.github.io.git',
+          branch: 'master'
+        }
+      }
     }
   });
 
@@ -424,7 +438,8 @@ module.exports = function (grunt) {
     'svgmin',
     'rev',
     'usemin',
-    'htmlmin'
+    'htmlmin',
+    'buildcontrol:pages'
     ]);
 
   grunt.registerTask('default', [
