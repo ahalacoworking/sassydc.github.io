@@ -1,4 +1,9 @@
+// Utilities
+@import "vars";
+
 @import "reset";
 @import "typography/*";
+@import "layout/*";
 
+// Plugins
 @import "syntax";

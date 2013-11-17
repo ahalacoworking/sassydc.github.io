@@ -115,16 +115,23 @@ template {
 
 html {
     font-family: $base-font-family; /* 1 */
-    @if not $strict-normalize or $legacy-support-for-ie6 or $legacy-support-for-ie7 {
-        font-size: 100% * ($base-font-size / 16px); /* 3 */
-    }
+    font-size: 100% * ($base-font-size / 16px); /* 3 */
     -ms-text-size-adjust: 100%; /* 2 */
     -webkit-text-size-adjust: 100%; /* 2 */
 
-    @if not $strict-normalize {
-        /* Establish a vertical rhythm unit using $base-line-height. */
-        @include adjust-leading-to(1);
+    @media #{$bp-med} {
+        font-size: 110% * ($base-font-size / 16px); /* 3 */
+        -ms-text-size-adjust: 110%; /* 2 */
+        -webkit-text-size-adjust: 110%; /* 2 */        
     }
+
+    @media #{$bp-lrg} {
+        font-size: 120% * ($base-font-size / 16px); /* 3 */
+        -ms-text-size-adjust: 120%; /* 2 */
+        -webkit-text-size-adjust: 120%; /* 2 */        
+    }
+
+    @include adjust-leading-to(1);
 }
 
 @if $legacy-support-for-ie6 or $legacy-support-for-ie7 {
@@ -146,7 +153,11 @@ html {
  */
 
 body {
-    margin: 0;
+    margin: .5em;
+
+    @media #{$bp-sm} {
+        margin: 1em;
+    }
 }
 
 /* ==========================================================================
