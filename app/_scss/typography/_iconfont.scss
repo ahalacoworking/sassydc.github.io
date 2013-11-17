@@ -35,6 +35,13 @@
   > a {
     text-decoration: none;
   }
+
+  &.icon--2x {
+    font-size: 2em;
+    vertical-align: middle;
+    position: relative;
+    bottom: .05em; // hello magic number!
+  }
 }
 
 // Available as a ligature by typing
