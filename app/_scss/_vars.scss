@@ -1,3 +1,22 @@
+// ======
+// Colors
+// ======
+
+$hopbush: #c69;
+$bouquet: #b37399;
+$venus: #998099;
+$patina: #699;
+$regent-grey: #808c99;
+$pale-sky: #6b717f;
+$midnight-blue: #036;
+
+$color-primary: $hopbush;
+$color-secondary: $midnight-blue;
+$color-text: darken($pale-sky, 15);
+$color-text-strong: $midnight-blue;
+$color-text-link: $color-primary;
+$color-text-heading: $regent-grey;
+
 // ===========
 // Breakpoints
 // ===========
@@ -9,3 +28,5 @@ $bp-lrg: "screen and (min-width:75em)";
 // ====
 // Type
 // ====
+
+$base-font-family: "jaf-bernina-sans", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
