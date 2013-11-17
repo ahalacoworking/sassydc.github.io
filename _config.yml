@@ -5,8 +5,8 @@
 
 # Use _config.build.yml to override these settings on `grunt build`.
 
-name: sassydc.github.io
-description: Let's talk about Sass, baby!
+name: Sassy DC
+description: A meetup to talk about Sass, Compass, and Front End Development
 
 author:
   name: Sassy DC
