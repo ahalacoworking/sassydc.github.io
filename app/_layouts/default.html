@@ -13,18 +13,28 @@
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
     <!-- build:css({app,.tmp}) /css/main.css -->
-    <link rel="stylesheet" href="/css/syntax.css">
     <link rel="stylesheet" href="/css/main.css">
     <!-- endbuild -->
     <!-- endbuild -->
 
   </head>
-  <body>
-    <!--[if lt IE 7]>
-        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-    <![endif]-->
+  <div class="container">
+    <body>
+      <header>
+        <h1><a href="/">{{ site.name }}</a></h1>
+        <h2>{{ site.description }}</h2>
+      </header>
+      <!--[if lt IE 7]>
+          <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+      <![endif]-->
 
-    {{ content }}
+      {{ content }}
+
+      <footer>
+        <p>You can find Sassy DC on <span class="icon"><a href="https://twitter.com/DCSassMeetup">twitter</span></a> and <span class="icon"><a href="https://github.com/sassydc">Github</a></span></p>
+        <p>Sassy DC is hosted by <a href="http://unakravets.com/">Una Kravets</a> and <a href="http://xiw.cx">Welch Canavan</a></p>
+      </footer>
+  </div>
 
     {% include scripts.html %}
     {% include googleanalytics.html %}
