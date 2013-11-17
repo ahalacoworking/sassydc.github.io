@@ -438,9 +438,13 @@ module.exports = function (grunt) {
     'svgmin',
     'rev',
     'usemin',
-    'htmlmin',
-    'buildcontrol:pages'
+    'htmlmin'
     ]);
+
+  grunt.registerTask('deploy', [
+    'build',
+    'buildcontrol:pages'
+  ]);
 
   grunt.registerTask('default', [
     'check',
