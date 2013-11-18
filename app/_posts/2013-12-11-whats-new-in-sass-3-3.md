@@ -10,14 +10,14 @@ map:    "http://maps.google.com/maps?q=1203+19th+St+NW,+Washington,+DC+20036"
 ---
 
 <header>
-  <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
-  <time>{{ page.date | date_to_string }} at {{ page.time }}</time>
-  <a href="{{ page.link }}">{{ page.venue }}</a>
-  <a href="{{ page.map }}"><span>{{ page.addy1 }}</span> <span>{{ page.addy2 }}</span></a>
+  <h2 class="talk-title">{{ page.title }}</h2>
+  <time>{{ page.date | date_to_string }} at {{ page.time }}</time><br>
+  <a href="{{ page.link }}">{{ page.venue }}</a><br>
+  <a href="{{ page.map }}"><span>{{ page.addy1 }}</span><br><span>{{ page.addy2 }}</span></a>
 </header>
-
+	<p>
 For our inaugural meetup we'll be exploring the cutting edge of Sass by explaining the new features available in versions 3.3.
-
+	</p>
 <footer>
   
 </footer>
