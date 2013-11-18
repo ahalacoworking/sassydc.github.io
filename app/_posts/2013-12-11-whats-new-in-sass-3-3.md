@@ -10,7 +10,7 @@ map:    "http://maps.google.com/maps?q=1203+19th+St+NW,+Washington,+DC+20036"
 ---
 
 <header>
-  <h2 class="talk-title">{{ page.title }}</h2>
+  <h2>{{ page.title }}</h2>
   <time>{{ page.date | date_to_string }} at {{ page.time }}</time><br>
   <a href="{{ page.link }}">{{ page.venue }}</a><br>
   <a href="{{ page.map }}"><span>{{ page.addy1 }}</span><br><span>{{ page.addy2 }}</span></a>
