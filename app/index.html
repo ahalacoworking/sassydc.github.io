@@ -3,14 +3,14 @@ layout: default
 title: Sassy DC
 ---
 
-<fieldset class="upcoming">
-  <legend>Upcoming</legend>
+<section class="section">
+  <h2 class="section-title heading heading--beta">Upcoming</h2>
   {% for post in site.posts limit:1 %}
     <article>
       {{ post.content }}
     </article>
   {% endfor %}
-</fieldset>
+</section>
 
 <!--<section class="">
   <h1>Past Events</h1>
