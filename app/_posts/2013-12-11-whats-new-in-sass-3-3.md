@@ -15,9 +15,9 @@ map:    "http://maps.google.com/maps?q=1203+19th+St+NW,+Washington,+DC+20036"
   <a href="{{ page.link }}">{{ page.venue }}</a><br>
   <a href="{{ page.map }}"><span>{{ page.addy1 }}</span><br><span>{{ page.addy2 }}</span></a>
 </header>
-	<p>
-For our inaugural meetup we'll be exploring the cutting edge of Sass by explaining the new features available in versions 3.3.
-	</p>
+
+For our inaugural meetup we'll be exploring the the new features available in [current release candidate](https://twitter.com/SassCSS/status/389086335505805312) version of Sass.
+
 <footer>
   
 </footer>

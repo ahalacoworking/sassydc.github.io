@@ -3,14 +3,14 @@ layout: default
 title: Sassy DC
 ---
 
-<fieldset class="upcoming">
-  <legend>Upcoming</legend>
+<section class="section">
+  <h2 class="section-title heading heading--beta">Upcoming</h2>
   {% for post in site.posts limit:1 %}
     <article>
       {{ post.content }}
     </article>
   {% endfor %}
-</fieldset>
+</section>
 
 <!--<section class="">
   <h1>Past Events</h1>
@@ -20,5 +20,5 @@ title: Sassy DC
 </section>-->
 
 <section class="format">
-  <p>The format will consist of a twenty minute presentation followed by forty minutes of casual Q&A and hacking.</p>
+  <p>Meetups will consist of a twenty minute presentation followed by forty minutes of Q&A and hacking. All skill levels are welcome and encouraged to attend.</p>
 </section>
