@@ -8,14 +8,17 @@
   position: relative;
   text-align: center;
   margin-top: 2rem;
+  padding-top: 1rem;
 
   @at-root #{&}-title {
     position: absolute;
     padding: 0 1em;
     background-color: $color-background;
-    top: -3rem;
+    top: -2.75rem;
     left: 50%;
     transform: translateX(-50%);
-  }  
+    white-space: nowrap;
+    line-height: 1;
+  }
 }
 

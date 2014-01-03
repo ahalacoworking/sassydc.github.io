@@ -4,21 +4,25 @@ title: Sassy DC
 ---
 
 <section class="section">
-  <h2 class="section-title heading heading--beta">Upcoming</h2>
+  <h1 class="section-title heading heading--beta">Upcoming</h1>
   {% for post in site.posts limit:1 %}
     <article>
       {{ post.content }}
+      <p>Visit <a href="http://sassydc.eventbrite.com">sassydc.eventbrite.com</a> to sign up!</p>
     </article>
   {% endfor %}
 </section>
 
-<!--<section class="">
-  <h1>Past Events</h1>
-  {% for post in site.posts offset:1 %}
-    <article><time>{{ post.date | date_to_string }}</time> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></article>
-  {% endfor %}
-</section>-->
-
 <section class="format">
-  <p>Meetups will consist of a twenty minute presentation followed by forty minutes of Q&A and hacking. All skill levels are welcome and encouraged to attend.</p>
+  <p>Meetups consist of a twenty minute presentation followed by forty minutes of Q&A and hacking. All skill levels are welcome and encouraged to attend.</p>
 </section>
+
+<section class="section">
+  <h1 class="section-title heading heading--beta">Past Events</h1>
+  <ul>
+  {% for post in site.posts offset:1 %}
+    <li><time>{{ post.date | date_to_string }}</time> &raquo; {{ post.title }} {% if post.slides %}(<a class="linkalt" href="{{ post.slides}}">slides</a>){% endif %}</li>
+  {% endfor %}
+  </ul>
+</section>
+
