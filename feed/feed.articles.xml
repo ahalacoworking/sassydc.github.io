@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Sassy DC - Articles</title>
+		<description>A monthly meetup in Washington, DC to discuss the latest in Sass, Compass, and Front End Dev</description>
+		<link></link>
+		<atom:link href="/feed.articles.xml" rel="self" type="application/rss+xml" />
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+	</channel>
+</rss>
