@@ -7,6 +7,13 @@ title: Sassy DC
   <h1 class="section-title heading heading--beta">Upcoming</h1>
   {% for post in site.posts limit:1 %}
     <article>
+      <header>
+        <h2>{{ post.title }}</h2>
+        <time>{{ post.date | date: "%B %-d, %Y" }} at {{ post.time }}</time><br>
+        <a href="{{ post.link }}">{{ post.venue }}</a><br>
+        <a class="linkalt" href="{{ post.map }}"><span>{{ post.addy1 }}</span><br><span>{{ post.addy2 }}</span></a>
+      </header>
+
       {{ post.content }}
     </article>
   {% endfor %}
@@ -24,4 +31,3 @@ title: Sassy DC
   {% endfor %}
   </ul>
 </section>
-

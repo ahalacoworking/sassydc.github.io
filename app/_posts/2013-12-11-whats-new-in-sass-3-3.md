@@ -10,11 +10,4 @@ map:    "http://maps.google.com/maps?q=1203+19th+St+NW,+Washington,+DC+20036"
 slides: "http://sassydc.github.io/20131211-sass-3-3"
 ---
 
-<header>
-  <h2>{{ page.title }}</h2>
-  <time>{{ page.date | date_to_string }} at {{ page.time }}</time><br>
-  <a href="{{ page.link }}">{{ page.venue }}</a><br>
-  <a class="linkalt" href="{{ page.map }}"><span>{{ page.addy1 }}</span><br><span>{{ page.addy2 }}</span></a>
-</header>
-
 For our inaugural meetup we'll be exploring the the new features available in the [current release candidate](https://twitter.com/SassCSS/status/389086335505805312) version of Sass.
