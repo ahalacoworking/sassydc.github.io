@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Sassy DC</title>
-		<description>A monthly meetup in Washington, DC to discuss the latest in Sass, Compass, and Front End Dev</description>		
+		<description>A monthly meetup in Washington, DC to discuss the latest in Sass, Compass, and Front End Dev</description>
 		<link></link>
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Sass 102</title>
-				<description>&lt;p&gt;Sure, you fell in love with Sass when you wrote your first variable, saved gobs of time by nesting your selectors, and maybe even wrote a mixin or two. But there&amp;#39;s so much more that Sass can do!&lt;/p&gt;
+				<description><p><strong><a href="https://nvite.com/sassydc/may14">Register at https://nvite.com/sassydc/may14</a></strong></p>&lt;p&gt;Sure, you fell in love with Sass when you wrote your first variable, saved gobs of time by nesting your selectors, and maybe even wrote a mixin or two. But there&amp;#39;s so much more that Sass can do!&lt;/p&gt;
 
 &lt;p&gt;In this talk, we&amp;#39;ll go through what makes Sass more of a real programming language: data types and control structures. We&amp;#39;ll look through lists, looping and even the new Sass &amp;quot;maps&amp;quot; data type in version 3.3, along some real-world examples.&lt;/p&gt;
 
@@ -19,8 +19,8 @@
 &lt;p&gt;When not doing web things, you can find Tracy skiing, rooting for her Washington Redskins, or spending time with her two kids.&lt;/p&gt;
 </description>
 				<pubDate>Wed, 07 May 2014 00:00:00 -0400</pubDate>
-				<link>/Sass-102.html</link>
-				<guid isPermaLink="true">/Sass-102.html</guid>
+				<link></link>
+				<guid isPermaLink="true"></guid>
 			</item>
 		
 			<item>
@@ -32,8 +32,8 @@
 &lt;p&gt;Follow him on Twitter at @robwierzbowski&lt;/p&gt;
 </description>
 				<pubDate>Wed, 12 Mar 2014 00:00:00 -0400</pubDate>
-				<link>/yo-yeoman.html</link>
-				<guid isPermaLink="true">/yo-yeoman.html</guid>
+				<link></link>
+				<guid isPermaLink="true"></guid>
 			</item>
 		
 			<item>
@@ -43,8 +43,8 @@
 &lt;p&gt;Visit &lt;a href=&quot;http://nvite.com/sassydc/feb2014&quot;&gt;nvite.com/sassydc/feb2014&lt;/a&gt; to sign up!&lt;/p&gt;
 </description>
 				<pubDate>Wed, 12 Feb 2014 00:00:00 -0500</pubDate>
-				<link>/managing-responsive-images-with-sass.html</link>
-				<guid isPermaLink="true">/managing-responsive-images-with-sass.html</guid>
+				<link></link>
+				<guid isPermaLink="true"></guid>
 			</item>
 		
 			<item>
@@ -52,8 +52,8 @@
 				<description>&lt;p&gt;Organizing a project&amp;#39;s file structure is the first step to maximizing its efficiency while working on it. This is a subject that causes much debate because there isn&amp;#39;t really one solid method that is optimized for every scenario. This presentation explores various file organization approaches based on project depth and team size.&lt;/p&gt;
 </description>
 				<pubDate>Wed, 15 Jan 2014 00:00:00 -0500</pubDate>
-				<link>/perspectives-on-file-structure.html</link>
-				<guid isPermaLink="true">/perspectives-on-file-structure.html</guid>
+				<link></link>
+				<guid isPermaLink="true"></guid>
 			</item>
 		
 			<item>
@@ -61,8 +61,8 @@
 				<description>&lt;p&gt;For our inaugural meetup we&amp;#39;ll be exploring the the new features available in the &lt;a href=&quot;https://twitter.com/SassCSS/status/389086335505805312&quot;&gt;current release candidate&lt;/a&gt; version of Sass.&lt;/p&gt;
 </description>
 				<pubDate>Wed, 11 Dec 2013 00:00:00 -0500</pubDate>
-				<link>/whats-new-in-sass-3-3.html</link>
-				<guid isPermaLink="true">/whats-new-in-sass-3-3.html</guid>
+				<link></link>
+				<guid isPermaLink="true"></guid>
 			</item>
 		
 	</channel>
