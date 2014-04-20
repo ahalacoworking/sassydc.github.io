@@ -9,6 +9,7 @@ title: Sassy DC
     <article>
       <header>
         <h2>{{ post.title }}</h2>
+        <p>(<a href="{{ post.reg }}">register</a>)</p>
         <time>{{ post.date | date: "%B %-d, %Y" }} at {{ post.time }}</time><br>
         <a href="{{ post.link }}">{{ post.venue }}</a><br>
         <a class="linkalt" href="{{ post.map }}"><span>{{ post.addy1 }}</span><br><span>{{ post.addy2 }}</span></a>
