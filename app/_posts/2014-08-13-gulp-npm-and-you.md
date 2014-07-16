@@ -14,4 +14,4 @@ How to take [Gulp](http://gulpjs.com/) to the next level with cross-device synci
 
 ### Tommy Marshall
 
-Tommy has been a Front-end Developer at Viget for over two and a half years. While at Viget he has worked with clients such as PUMA, Dick's Sporting Goods, and OPower, and on projects like ESPN's [Anatomy of a Pitch](http://espn.go.com/mlb/techniques/pitchanatomy/) and Viget's own [SayViget](http://sayviget.com/).com. Outside of coding he enjoys home brewing, playing guitar poorly, and getting the most out of his Amazon prime account. 
+Tommy has been a Front-end Developer at Viget for over two and a half years. While at Viget he has worked with clients such as PUMA, Dick's Sporting Goods, and OPower, and on projects like ESPN's [Anatomy of a Pitch](http://espn.go.com/mlb/techniques/pitchanatomy/) and Viget's own [SayViget.com](http://sayviget.com/). Outside of coding he enjoys home brewing, playing guitar poorly, and getting the most out of his Amazon prime account. 
