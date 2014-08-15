@@ -8,6 +8,7 @@ addy1:  "1203 19th St. NW, 3rd Floor"
 addy2:  "Washington, DC 20036"
 map:    "http://maps.google.com/maps?q=1203+19th+St+NW,+Washington,+DC+20036"
 reg: "https://nvite.com/sassydc/e43"
+slides: "http://slides.com/tommymarshall/sassydc#/"
 ---
 
 How to take [Gulp](http://gulpjs.com/) to the next level with cross-device syncing, smarter code compiling, image optimization, and custom templating.
