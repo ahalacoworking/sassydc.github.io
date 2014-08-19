@@ -12,3 +12,5 @@ $ npm install && bundle install && bower install
 ```
 
 After that you can run `grunt serve` to develop, `grunt serve:dist` to preview a "dist" build, and `grunt deploy` to deploy.
+
+[View our Code of Conduct](https://github.com/sassydc/sassydc.github.io/blob/develop/code-of-conduct.md)

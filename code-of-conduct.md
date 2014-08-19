@@ -1,4 +1,4 @@
-# Citizen Code of Conduct
+# Sassy DC Code of Conduct
 
 ## 1. Purpose
 
