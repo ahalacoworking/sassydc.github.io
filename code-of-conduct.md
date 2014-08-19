@@ -75,10 +75,10 @@ person—as well as in all one-on-one communications pertaining to community bus
 
 ## 9.‎ ‏Contact info
 
-ampalanzi [at] gmail.com
-dcsassmeetup [at] gmail.com
-[@mylifeasalllly](http://www.twitter.com/mylifeasalllly)
-[@dcsassmeetup](http://www.twitter.com/dcsassmeetup)
+- ampalanzi [at] gmail.com
+- dcsassmeetup [at] gmail.com
+- [@mylifeasalllly](http://www.twitter.com/mylifeasalllly)
+- [@dcsassmeetup](http://www.twitter.com/dcsassmeetup)
 
 ## 10.‎ ‏License and attribution
 
