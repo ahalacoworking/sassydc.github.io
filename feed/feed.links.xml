@@ -8,6 +8,31 @@
 		
 			
 			<item>
+				<title>Building The CustomInk Living Style Guide</title>
+				<description>&lt;p&gt;Be prepared for a lively group discussion and bring your A-game of questions as we talk about our process and technical building blocks for our new living style guide.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Existing framework or building new.&lt;/li&gt;
+&lt;li&gt;Grid choices galore.&lt;/li&gt;
+&lt;li&gt;Style guides as communication tools.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Ken Collins&lt;/h3&gt;
+
+&lt;p&gt;Ruby, JavaScript, Sass, iOS. Stinky Cheese &amp;amp; Beer Advocate. Working at &lt;a href=&quot;http://www.customink.com/&quot;&gt;CustomInk&lt;/a&gt; and loving it!&lt;/p&gt;
+
+&lt;h3&gt;Jonathan Lehman&lt;/h3&gt;
+
+&lt;p&gt;Software Engineer at &lt;a href=&quot;http://www.customink.com/&quot;&gt;CustomInk&lt;/a&gt;&lt;/p&gt;
+</description>
+				<pubDate>Wed, 10 Sep 2014 00:00:00 -0400</pubDate>
+				<link>voxmedia.com</link>
+				<guid isPermaLink="true">/building-customink-styleguide.html</guid>
+			</item>
+			
+		
+			
+			<item>
 				<title>Gulp, NPM, and you.</title>
 				<description>&lt;p&gt;How to take &lt;a href=&quot;http://gulpjs.com/&quot;&gt;Gulp&lt;/a&gt; to the next level with cross-device syncing, smarter code compiling, image optimization, and custom templating.&lt;/p&gt;
 
