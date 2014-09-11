@@ -8,7 +8,7 @@ addy1:  "1201 Connecticut Ave NW, Washington, DC 11th Floor"
 addy2:  "Washington, DC 20036"
 map:    "https://www.google.com/maps/place/1201+Connecticut+Ave+NW,+Washington,+DC+20036"
 reg:    "https://nvite.com/SassyDC/f4a"
-slides: ""
+slides: "https://speakerdeck.com/metaskills/like-a-ross-building-the-customink-dot-com-living-style-guide"
 ---
 
 Be prepared for a lively group discussion and bring your A-game of questions as we talk about our process and technical building blocks for our new living style guide.
