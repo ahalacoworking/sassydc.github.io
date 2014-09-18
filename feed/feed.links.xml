@@ -8,6 +8,21 @@
 		
 			
 			<item>
+				<title>Intro to Mapbox Studio</title>
+				<description>&lt;p&gt;Learn how to design a beautiful custom map for your next website or app! We&amp;#39;ll walk through the whole process – from data to live map – using &lt;a href=&quot;https://www.mapbox.com/mapbox-studio/&quot;&gt;Mapbox Studio&lt;/a&gt;, a new map design tool. We&amp;#39;ll also take a closer look at styling in Mapbox Studio with CartoCSS, a language based on CSS.&lt;/p&gt;
+
+&lt;h3&gt;Nicki Dlugash&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.mapbox.com/about/team/#nicki-dlugash&quot;&gt;Nicki&lt;/a&gt; is a designer and cartographer at &lt;a href=&quot;https://www.mapbox.com/&quot;&gt;Mapbox&lt;/a&gt;, where she splits her time between making maps and making tools to help others make maps.&lt;/p&gt;
+</description>
+				<pubDate>Wed, 22 Oct 2014 00:00:00 -0400</pubDate>
+				<link>http://canvas.co/work</link>
+				<guid isPermaLink="true">/intro-to-mapbox.html</guid>
+			</item>
+			
+		
+			
+			<item>
 				<title>Building The CustomInk Living Style Guide</title>
 				<description>&lt;p&gt;Be prepared for a lively group discussion and bring your A-game of questions as we talk about our process and technical building blocks for our new living style guide.&lt;/p&gt;
 
