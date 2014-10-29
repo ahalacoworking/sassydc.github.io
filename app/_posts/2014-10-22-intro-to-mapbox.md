@@ -8,7 +8,7 @@ addy1:  "1203 19th St. NW, 3rd Floor"
 addy2:  "Washington, DC 20036"
 map:    "http://maps.google.com/maps?q=1203+19th+St+NW,+Washington,+DC+20036"
 reg: "https://nvite.com/SassyDC/e6c"
-slides: ""
+slides: "./docs/mapbox.pdf"
 ---
 
 Learn how to design a beautiful custom map for your next website or app! We'll walk through the whole process – from data to live map – using [Mapbox Studio](https://www.mapbox.com/mapbox-studio/), a new map design tool. We'll also take a closer look at styling in Mapbox Studio with CartoCSS, a language based on CSS.
