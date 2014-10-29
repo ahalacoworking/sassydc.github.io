@@ -8,6 +8,21 @@
 		
 			
 			<item>
+				<title>Beyond Keyframes: Modern web animation techniques</title>
+				<description>&lt;p&gt;A non-dogmatic look at the place of CSS in web animation and how you can leverage javascript to easily produce crisp, flexible UI animations. &lt;/p&gt;
+
+&lt;h3&gt;Eli Fitch&lt;/h3&gt;
+
+&lt;p&gt;Eli is a developer at ISL who loves crafting unforgettable experiences, animations, and applications that track beer inventory and temperature.  He is capable of communicating solely in gifs and dreams of one day chasing a man atop a moving train.  You can find him on &lt;a href=&quot;twitter.com/elifitch&quot;&gt;twitter&lt;/a&gt;, &lt;a href=&quot;github.com/elifitch&quot;&gt;github&lt;/a&gt;, and &lt;a href=&quot;codepen.io/EliFitch&quot;&gt;codepen&lt;/a&gt;.&lt;/p&gt;
+</description>
+				<pubDate>Wed, 12 Nov 2014 00:00:00 -0500</pubDate>
+				<link>http://canvas.co/work</link>
+				<guid isPermaLink="true">/animation.html</guid>
+			</item>
+			
+		
+			
+			<item>
 				<title>Intro to Mapbox Studio</title>
 				<description>&lt;p&gt;Learn how to design a beautiful custom map for your next website or app! We&amp;#39;ll walk through the whole process – from data to live map – using &lt;a href=&quot;https://www.mapbox.com/mapbox-studio/&quot;&gt;Mapbox Studio&lt;/a&gt;, a new map design tool. We&amp;#39;ll also take a closer look at styling in Mapbox Studio with CartoCSS, a language based on CSS.&lt;/p&gt;
 
