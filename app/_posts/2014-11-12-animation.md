@@ -15,4 +15,4 @@ A non-dogmatic look at the place of CSS in web animation and how you can leverag
 
 ### Eli Fitch
 
-Eli is a developer at ISL who loves crafting unforgettable experiences, animations, and applications that track beer inventory and temperature.  He is capable of communicating solely in gifs and dreams of one day chasing a man atop a moving train.  You can find him on [twitter](twitter.com/elifitch), [github](github.com/elifitch), and [codepen](codepen.io/EliFitch).
+Eli is a developer at ISL who loves crafting unforgettable experiences, animations, and applications that track beer inventory and temperature.  He is capable of communicating solely in gifs and dreams of one day chasing a man atop a moving train.  You can find him on [twitter](http://twitter.com/elifitch), [github](http://github.com/elifitch), and [codepen](http://codepen.io/EliFitch).
