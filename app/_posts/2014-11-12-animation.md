@@ -7,11 +7,11 @@ link:   "http://canvas.co/work"
 addy1:  "1203 19th St. NW, 3rd Floor"
 addy2:  "Washington, DC 20036"
 map:    "http://maps.google.com/maps?q=1203+19th+St+NW,+Washington,+DC+20036"
-reg: "https://nvite.com/SassyDC/e6c"
+reg: "https://nvite.com/SassyDC/dd3"
 slides: ""
 ---
 
-A non-dogmatic look at the place of CSS in web animation and how you can leverage javascript to easily produce crisp, flexible UI animations. 
+A non-dogmatic look at the place of CSS in web animation and how you can leverage javascript to easily produce crisp, flexible UI animations.
 
 ### Eli Fitch
 
