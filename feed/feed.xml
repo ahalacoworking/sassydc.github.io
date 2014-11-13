@@ -7,8 +7,19 @@
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Sass Hack Night</title>
+				<description><p><strong><a href="https://nvite.com/SassyDC/bb8">Register at https://nvite.com/SassyDC/bb8</a></strong></p>&lt;p&gt;Join us for an open hack night! Get guidance while exploring the &lt;a href=&quot;http://sass-lang.com/&quot;&gt;Sass language&lt;/a&gt; with &lt;a href=&quot;http://sassmeister.com/&quot;&gt;Sassmeister&lt;/a&gt; or &lt;a href=&quot;http://codepen.io/&quot;&gt;Codepen&lt;/a&gt;, recieve help with getting Sass or &lt;a href=&quot;http://libsass.com/&quot;&gt;Libsass&lt;/a&gt; compiling on your own computer, or put your head together with others to crack a particularly challenging Sass nut.&lt;/p&gt;
+
+&lt;p&gt;Send a note to &lt;a href=&quot;https://twitter.com/dcsassmeetup&quot;&gt;@dcsassmeetup&lt;/a&gt; or &lt;a href=&quot;mailto:dcsassmeetup@gmail.com&quot;&gt;dcsassmeetup@gmail.com&lt;/a&gt; if you&amp;#39;d like to request specific help in advance or volunteer to be a tutor so we can make sure we have a good match of skill sets.&lt;/p&gt;
+</description>
+				<pubDate>Wed, 03 Dec 2014 00:00:00 -0500</pubDate>
+				<link></link>
+				<guid isPermaLink="true"></guid>
+			</item>
+		
+			<item>
 				<title>Beyond Keyframes: Modern web animation techniques</title>
-				<description><p><strong><a href="https://nvite.com/SassyDC/dd3">Register at https://nvite.com/SassyDC/dd3</a></strong></p>&lt;p&gt;A non-dogmatic look at the place of CSS in web animation and how you can leverage javascript to easily produce crisp, flexible UI animations.&lt;/p&gt;
+				<description><p><strong><a href="https://nvite.com/SassyDC/e6c">Register at https://nvite.com/SassyDC/e6c</a></strong></p>&lt;p&gt;A non-dogmatic look at the place of CSS in web animation and how you can leverage javascript to easily produce crisp, flexible UI animations. &lt;/p&gt;
 
 &lt;h3&gt;Eli Fitch&lt;/h3&gt;
 
