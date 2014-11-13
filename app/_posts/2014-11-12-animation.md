@@ -8,7 +8,7 @@ addy1:  "1203 19th St. NW, 3rd Floor"
 addy2:  "Washington, DC 20036"
 map:    "http://maps.google.com/maps?q=1203+19th+St+NW,+Washington,+DC+20036"
 reg: "https://nvite.com/SassyDC/e6c"
-slides: ""
+slides: "http://elifitch.com/animation-talk"
 ---
 
 A non-dogmatic look at the place of CSS in web animation and how you can leverage javascript to easily produce crisp, flexible UI animations. 
