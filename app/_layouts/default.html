@@ -21,23 +21,31 @@
 
 
   </head>
-  <div class="container content">
     <body>
-      <header>
-        <a class="blankfont" href="/"><h1 class="sitetitle">{{ site.name }}</h1></a>
-        <h2>{{ site.description }}</h2>
-      </header>
+      <nav>
+        <a class="blankfont logo" href="/"><h1 class="sitetitle">{{ site.name }}</h1></a>
+        <ul class="navigation">
+          <li><a href="sponsor.html">sponsor</a></li>
+          <li><a href="speak.html">speak</a></li>
+          <li><a href="past-events.html">past events</a></li>
+        </ul>
+      </nav>
       <!--[if lt IE 7]>
           <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
       <![endif]-->
+      <div class="container content">
+        <h2 class="description">{{ site.description }}</h2>
+        {{ content }}
 
-      {{ content }}
-
-      <footer>
-        <p class="social">You can find Sassy DC on <span class="icon icon--2x"><a href="https://twitter.com/DCSassMeetup">Twitter</span></a>, <span class="icon icon--2x"><a href="https://github.com/sassydc">Github</a></span>, and <a href="/feed/feed.xml">RSS</a></p>
-        <small>Sassy DC is hosted by <a href="http://twitter.com/mylifeasalllly">Ally Palanzi</a> and <a href="http://xiw.cx">Welch Canavan</a>. View our <a href="https://github.com/sassydc/sassydc.github.io/blob/develop/code-of-conduct.md">Code of Conduct</a>.</small>
-      </footer>
-  </div>
+      </div>
+    <footer>
+      <div class="social">
+        <a class="icon-twitter" href="https://twitter.com/DCSassMeetup"></a>
+        <a class="icon-github" href="https://github.com/sassydc"></a>
+        <a class="icon-feed" href="/feed/feed.xml"></a>
+      </div>
+      <small>Sassy DC is hosted by <a href="http://twitter.com/mylifeasalllly">Ally Palanzi</a> and <a href="http://xiw.cx">Welch Canavan</a>. View our <a href="https://github.com/sassydc/sassydc.github.io/blob/develop/code-of-conduct.md">Code of Conduct</a>.</small>
+    </footer>
 
     {% include scripts.html %}
     {% include googleanalytics.html %}

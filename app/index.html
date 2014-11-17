@@ -23,12 +23,3 @@ title: Sassy DC
 <section class="format">
   <p>Meetups consist of a twenty minute presentation followed by forty minutes of Q&A and hacking. All skill levels are welcome and encouraged to attend.</p>
 </section>
-
-<section class="section">
-  <h1 class="section-title heading heading--beta">Past Events</h1>
-  <ul>
-  {% for post in site.posts offset:1 %}
-    <li><time>{{ post.date | date_to_string }}</time> &raquo; {{ post.title }} {% if post.slides %}(<a class="linkalt" href="{{ post.slides}}">slides</a>){% endif %}</li>
-  {% endfor %}
-  </ul>
-</section>

@@ -7,7 +7,7 @@
   @include apply-side-rhythm-border(right, $width: 1px, $lines: 0.625);
   position: relative;
   text-align: center;
-  margin-top: 2rem;
+  margin-top: 2.5rem;
   padding-top: 1rem;
 
   @at-root #{&}-title {
