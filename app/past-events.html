@@ -2,11 +2,12 @@
 layout: default
 title: Sassy DC
 ---
-<section class="section">
+<section class="section past-events">
   <h1 class="section-title heading heading--beta">Past Events</h1>
   <ul>
   {% for post in site.posts offset:1 %}
-    <li><time>{{ post.date | date_to_string }}</time> &raquo; {{ post.title }} {% if post.slides %}(<a class="linkalt" href="{{ post.slides}}">slides</a>){% endif %}</li>
+    <li>
+      <p><time>{{ post.date | date_to_string }}</time> &raquo {% if post.slides %}<a class="linkalt" href="{{ post.slides}}">{{ post.title }}</a> {% else %} {{ post.title }} {% endif %}</p></li>
   {% endfor %}
   </ul>
 </section>
