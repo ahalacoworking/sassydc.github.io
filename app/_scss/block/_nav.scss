@@ -1,7 +1,4 @@
 .navigation {
-  position: absolute;
-  top: 1em;
-  right: .5em;
   text-align: center;
   li {
     display: inline-block;
@@ -10,5 +7,4 @@
       color: $color-secondary;
     }
   }
-
 }
