@@ -7,6 +7,19 @@
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>4 years of open source and inspiration</title>
+				<description><p><strong><a href="https://nvite.com/SassyDC/dacf">Register at https://nvite.com/SassyDC/dacf</a></strong></p>&lt;p&gt;On August 7th, 2011 I pushed my first commit to my first open source project, Sassy Modular Scale. This project sparked my journey into the budding Sass community and evolved my understanding of software and design as it evolved. On February 16th, 2015 the project came full circle as I helped to re-launch the website that inspired my first few lines of open source code, modularscale.com.&lt;/p&gt;
+
+&lt;h3&gt;Scott Kellum&lt;/h3&gt;
+
+&lt;p&gt;I’m a designer and front end developer at Vox Media working to make amazing products for our readers and writers. I grew up in the suburbs of DC but moved to NYC for school and never moved back. Had a run as a professional type designer at &lt;a href=&quot;http://dardenstudio.com/&quot;&gt;Darden Studio&lt;/a&gt; and first made my mark on the web at Treesaver. I enjoy cat gifs, hammocks, and great food.&lt;/p&gt;
+</description>
+				<pubDate>Wed, 11 Mar 2015 00:00:00 -0400</pubDate>
+				<link></link>
+				<guid isPermaLink="true"></guid>
+			</item>
+		
+			<item>
 				<title>Sass Hack Night</title>
 				<description><p><strong><a href="https://nvite.com/SassyDC/bb8">Register at https://nvite.com/SassyDC/bb8</a></strong></p>&lt;p&gt;Join us for an open hack night! Get guidance while exploring the &lt;a href=&quot;http://sass-lang.com/&quot;&gt;Sass language&lt;/a&gt; with &lt;a href=&quot;http://sassmeister.com/&quot;&gt;Sassmeister&lt;/a&gt; or &lt;a href=&quot;http://codepen.io/&quot;&gt;Codepen&lt;/a&gt;, recieve help with getting Sass or &lt;a href=&quot;http://libsass.com/&quot;&gt;Libsass&lt;/a&gt; compiling on your own computer, or put your head together with others to crack a particularly challenging Sass nut.&lt;/p&gt;
 
@@ -125,15 +138,6 @@
 				<description>&lt;p&gt;Organizing a project&amp;#39;s file structure is the first step to maximizing its efficiency while working on it. This is a subject that causes much debate because there isn&amp;#39;t really one solid method that is optimized for every scenario. This presentation explores various file organization approaches based on project depth and team size.&lt;/p&gt;
 </description>
 				<pubDate>Wed, 15 Jan 2014 00:00:00 -0500</pubDate>
-				<link></link>
-				<guid isPermaLink="true"></guid>
-			</item>
-		
-			<item>
-				<title>What&#39;s New in Sass 3.3?</title>
-				<description>&lt;p&gt;For our inaugural meetup we&amp;#39;ll be exploring the the new features available in the &lt;a href=&quot;https://twitter.com/SassCSS/status/389086335505805312&quot;&gt;current release candidate&lt;/a&gt; version of Sass.&lt;/p&gt;
-</description>
-				<pubDate>Wed, 11 Dec 2013 00:00:00 -0500</pubDate>
 				<link></link>
 				<guid isPermaLink="true"></guid>
 			</item>
