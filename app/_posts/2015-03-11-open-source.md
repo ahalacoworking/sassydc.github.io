@@ -2,10 +2,10 @@
 layout: post
 title:  "4 years of open source and inspiration"
 time:   6:30pm
-venue:  "Location TBD"
-link:   ""
-addy1:  ""
-addy2:  ""
+venue:  "Canvas Coworking Space"
+link:   "http://canvas.co/work"
+addy1:  "1203 19th St. NW, 3rd Floor"
+addy2:  "Washington, DC 20036"
 map:    "http://maps.google.com/maps?q=1203+19th+St+NW,+Washington,+DC+20036"
 reg: "https://nvite.com/SassyDC/dacf"
 ---
