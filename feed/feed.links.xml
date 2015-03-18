@@ -8,6 +8,23 @@
 		
 			
 			<item>
+				<title>Intro to Sass Workshop!</title>
+				<description>&lt;p&gt;Have you been wanting to learn &lt;a href=&quot;http://sass-lang.com/&quot;&gt;Sass&lt;/a&gt;? Now is your chance! Join us on Thursday, April 16th to learn how to improve your CSS workflow with Sass. We&amp;#39;ll cover why Sass is awesome, how to install, how to transition from CSS to Sass, and go over some of the cool things you can do with Sass.&lt;/p&gt;
+
+&lt;p&gt;This workshop is geared towards those who understand the basics of CSS. If you&amp;#39;re already fluent in Sass and want to help out, please come! &lt;/p&gt;
+
+&lt;h3&gt;Antoinette Janus&lt;/h3&gt;
+
+&lt;p&gt;I am a designer turned developer working as a front-end developer under contract at Corporate Executive Board. I went to school for Digital Media, originally focusing in Graphic Design and worked as a Graphic Designer for the eco-friendly section of the school.  In my free time, I currently design and develop my own apps with MeteorJS and Sass. &lt;/p&gt;
+</description>
+				<pubDate>Thu, 16 Apr 2015 00:00:00 -0400</pubDate>
+				<link>http://canvas.co/work</link>
+				<guid isPermaLink="true">/intro-to-sass-workshop.html</guid>
+			</item>
+			
+		
+			
+			<item>
 				<title>4 years of open source and inspiration</title>
 				<description>&lt;p&gt;On August 7th, 2011 I pushed my first commit to my first open source project, Sassy Modular Scale. This project sparked my journey into the budding Sass community and evolved my understanding of software and design as it evolved. On February 16th, 2015 the project came full circle as I helped to re-launch the website that inspired my first few lines of open source code, &lt;a href=&quot;http://modularscale.com&quot;&gt;modularscale.com&lt;/a&gt;.&lt;/p&gt;
 
